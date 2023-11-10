@@ -73,5 +73,5 @@ Please adhere to this project's `code of conduct`.
 
 ## Authors
 
-- [@code-lova](https://www.github.com/code-lova)
+- [@Ebizo Jeremiah](https://www.github.com/code-lova)
 
